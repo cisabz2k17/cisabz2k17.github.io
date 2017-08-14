@@ -383,7 +383,7 @@
 
 		         <hr />
 
-		         <p>CISABZ, an Annually Recurring National Level Technical Symposium Conducted by the Department of Computer Science and Engineering, Kings College of Engineering, Punalkulam. It is the 16th Annual technical fest of CSE Department that hosts a variety of exciting events 
+		         <p>CISABZ, an Annually Recurring National Level Technical Symposium Conducted by the Department of Computer Science and Engineering, Kings College of Engineering, Punalkulam. It is the 17th Annual technical fest of CSE Department that hosts a variety of exciting events 
 		         </p>
 
 
@@ -498,12 +498,12 @@
 
          <div class="six columns tab-whole footer-about">
 				
-				<h3>About CISABZ</h3>
+				<h3><a href="https://mozillatn.github.io/KingsCampusClub">ABOUT MOZILLA KINGS</a></h3>
                
-            <p>CISABZ, an Annually Recurring National Level Technical Symposium Conducted by the Department of Computer Science and Engineering, Kings College of Engineering, Punalkulam.  
+           <p>Mozilla Kings is a Campus club Contributing under <a href="https://mozillatn.github.io"> Mozilla Tamilnadu</a> for the  Open source project of Mozilla Firefox. We are the contributers of  Quality Assurance team from India and Localizing the mozilla products to our Tamil language.  
             </p>
 
-            <p> It is the 17th Annual technical fest of CSE Department that hosts a variety of exciting events.</p>        
+            <p> We Mozilla Kings is one of the Top Clubs in India to the Contributing towards Quality Assurance for Firefox products.</p>        
 
          </div> <!-- /footer-about -->
 
@@ -521,7 +521,7 @@
                   </p>
 
                   <ul>
-                    <li><a href="tel:04362282474">04362 - 282474 / 282676</a></li>
+                    <li><a href="tel:9698611282">9698611282</a></li>
                                         <li><a href="mailto:cisabz2k17@gmail.com">cisabz2k17@gmail.com</a></li>
                   </ul>                  
                </div> <!-- /columns -->             
@@ -532,7 +532,7 @@
                   <ul>
                      <li><a href="https://www.facebook.com/cisabz17/">Facebook</a></li>
                      <li><a href="#">Twitter</a></li>
-                     <li><a href="https://plus.google.com/u/0/113447091354715830689">Google+</a></li>
+                     <li><a href="https://plus.google.com/u/0/113447091354715830689">GooglePlus</a></li>
 
                   </ul>
                   
